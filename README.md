@@ -77,12 +77,11 @@
 <hr/>
 
 <h3 align="left">📊 GitHub Stats</h3>
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=samadhijagathsiri&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samadhijagathsiri&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samadhijagathsiri&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samadhijagathsiri&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samadhijagathsiri&theme=tokyonight&hide_border=true)
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samadhijagathsiri&theme=tokyonight" />
-</p>
