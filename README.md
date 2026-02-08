@@ -9,6 +9,7 @@
 
 <ul>
   <li>🔭 I’m currently working on <b>Academic & Personal CS Projects</b></li>
+  <li>🎓I am currently studying Computer Science and Information Technology as an undergraduate at the University of Kelaniya and UCSC.<li>
   <li>🌱 I’m currently learning <b>Machine Learning fundamentals, Java, Python, Git & GitHub, Software Engineering principles</b></li>
   <li>📫 How to reach me: <b><a href="mailto:anusarasmamm@gmail.com">anusarasmamm@gmail.com</a></b></li>
   <li>👨‍💻 All of my projects are available at <b><a href="https://github.com/SamadhiJagathsiri" target="_blank">github.com/SamadhiJagathsiri</a></b></li>
