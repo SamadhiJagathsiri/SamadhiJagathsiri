@@ -3,8 +3,13 @@
 <h3 align="center">Computer Science Undergraduate | Building Strong Foundations in Tech</h3>
 
 <p align="center">
-  <img src="assets/coder.gif" width="350" />
+  <img
+    src="https://github.com/user-attachments/assets/ecc2cce9-0557-4ecb-b5d5-ed989aa990e9"
+    alt="Hand coding illustration"
+    width="350"
+  />
 </p>
+
 
 <p align="center">
   <img
