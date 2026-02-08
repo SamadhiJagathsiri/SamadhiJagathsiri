@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/coder.gif" width="350" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Samadhi Jagathsiri</h1>
 <h3 align="center">Computer Science Undergraduate | Building Strong Foundations in Tech</h3>
 
