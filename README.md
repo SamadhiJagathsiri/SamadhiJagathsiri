@@ -7,17 +7,23 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SamadhiJagathsiri&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img
+    src="https://komarev.com/ghpvc/?username=SamadhiJagathsiri&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Profile Views"
+  />
 </p>
+
+<hr/>
 
 <ul>
   <li>🔭 I’m currently working on <b>Academic & Personal CS Projects</b></li>
-  <li>🎓I am currently studying Computer Science and Information Technology as an undergraduate at the University of Kelaniya and UCSC.</li>
+  <li>🎓 I am currently studying <b>Computer Science & Information Technology</b> as an undergraduate at the <b>University of Kelaniya</b> and <b>UCSC</b>.</li>
   <li>🌱 I’m currently learning <b>Machine Learning fundamentals, Java, Python, Git & GitHub, Software Engineering principles</b></li>
   <li>📫 How to reach me: <b><a href="mailto:anusarasmamm@gmail.com">anusarasmamm@gmail.com</a></b></li>
   <li>👨‍💻 All of my projects are available at <b><a href="https://github.com/SamadhiJagathsiri" target="_blank">github.com/SamadhiJagathsiri</a></b></li>
 </ul>
 
+<hr/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -81,6 +87,10 @@
 
 <h3 align="left">📊 GitHub Stats</h3>
 
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samadhijagathsiri&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=samadhijagathsiri&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 
