@@ -6,7 +6,7 @@
   <img
     src="https://github.com/user-attachments/assets/ecc2cce9-0557-4ecb-b5d5-ed989aa990e9"
     alt="Hand coding illustration"
-    width="350"
+    width="250" 
   />
 </p>
 
