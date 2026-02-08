@@ -5,20 +5,13 @@
   <img src="https://komarev.com/ghpvc/?username=SamadhiJagathsiri&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<table>
-  <tr>
-    <td width="60%">
-      <ul>
-        <li>🔭 Working on Academic & Personal CS Projects</li>
-        <li>🌱 Learning Java, Machine Learning & Software Engineering</li>
-        <li>📫 <a href="mailto:anusarasamm@gmail.com">anusarasamm@gmail.com</a></li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="assets" width="320" />
-    </td>
-  </tr>
-</table>
+<ul>
+  <li>🔭 I’m currently working on <b>Academic & Personal CS Projects</b></li>
+  <li>🎓I am currently studying Computer Science and Information Technology as an undergraduate at the University of Kelaniya and UCSC.</li>
+  <li>🌱 I’m currently learning <b>Machine Learning fundamentals, Java, Python, Git & GitHub, Software Engineering principles</b></li>
+  <li>📫 How to reach me: <b><a href="mailto:anusarasmamm@gmail.com">anusarasmamm@gmail.com</a></b></li>
+  <li>👨‍💻 All of my projects are available at <b><a href="https://github.com/SamadhiJagathsiri" target="_blank">github.com/SamadhiJagathsiri</a></b></li>
+</ul>
 
 
 <h3 align="left">Connect with me:</h3>
