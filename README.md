@@ -24,7 +24,7 @@
   <li>🔭 I’m currently working on <b>Academic & Personal CS Projects</b></li>
   <li>🎓 I am currently studying <b>Computer Science & Information Technology</b> as an undergraduate at the <b>University of Kelaniya</b> and <b>UCSC</b>.</li>
   <li>🌱 I’m currently learning <b>Machine Learning fundamentals, Java, Python, Git & GitHub, Software Engineering principles</b></li>
-  <li>📫 How to reach me: <b><a href="mailto:anusarasmamm@gmail.com">anusarasmamm@gmail.com</a></b></li>
+  <li>📫 How to reach me: <b><a href="mailto:anusarasamm@gmail.com">anusarasmamm@gmail.com</a></b></li>
   <li>👨‍💻 All of my projects are available at <b><a href="https://github.com/SamadhiJagathsiri" target="_blank">github.com/SamadhiJagathsiri</a></b></li>
 </ul>
 
@@ -94,8 +94,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=samadhijagathsiri&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=SamadhiJagathsiri&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
-
